@@ -132,7 +132,7 @@ export default {
               }
             }
             .form-body{
-              // padding: 40px 30px 25px;
+              margin-top: 50px;
               line-height: 1;
               .userinfo{
                 height: 50px;
